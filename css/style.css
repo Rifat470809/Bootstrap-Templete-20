@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body{
+	font-family: 'Noto Sans', sans-serif;
+}
+
+/*reset css code */
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+ul {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+}
+/*reset css end */
+
+/*-- header-scetion-area-start  --*/
+.logo{
+	border-bottom: 1px solid #95a7ad;
+	padding: 20px 0;
+}
+
+.logo img{
+	width: 350px;
+}
+
+.Summary{
+	padding: 30px 53px;
+	background: #e7f0f4;
+	margin-top: 35px;
+	padding-bottom: 65px;
+	border-radius: 25px;
+	width: 100%;
+}
+
+.Summary h2{
+	font-size: 20px;
+	color: #000000;
+	border-bottom: 1px solid #cedadf;
+	margin-bottom: 0;
+	padding: 15px 0;
+	font-weight: 700;
+}
+
+.Summary h1{
+	font-size: 16px;
+	color: #000000;
+	margin-bottom: 0;
+	margin-top: 40px;
+}
+
+.Summary h1 a{
+	text-decoration: none;
+	color: #26c485;
+}
+
+.Summary p{
+	font-size: 16px;
+	color: #000000;
+	margin-bottom: 0;
+	margin-top: 30px;
+}
+
+.Summary p span{
+	font-weight: 700;
+}
+
+.header-medil{
+	padding: 25px 53px;
+	background: #ffffff;
+	margin-top: 20px;
+}
+
+.email h2{
+	font-size: 16px;
+	color: #000000;
+	margin-bottom: 0;
+	font-weight: 700;
+}
+
+.email a{
+	text-decoration: none;
+	font-size: 16px;
+	color: #000000;
+	margin-top: 12px;
+	display: inline-block;
+}
+
+.Credit{
+	margin-top: 40px;
+}
+
+.Credit h2{
+	font-size: 16px;
+	color: #000000;
+	margin-bottom: 0;
+	font-weight: 700;
+}
+
+.Credit p{
+	font-size: 16px;
+	color: #000000;
+	margin-bottom: 0;
+	margin-top: 12px;
+}
+
+.address{
+	margin-top: 40px;
+}
+
+.address h2{
+	font-size: 16px;
+	color: #000000;
+	margin-bottom: 0;
+	font-weight: 700;
+}
+
+.address p{
+	font-size: 16px;
+	color: #000000;
+	margin-bottom: 0;
+	margin-top: 12px;
+}
+
+.Edit a{
+	text-decoration: none;
+	display: inline-block;
+	font-size: 14px;
+	padding: 10px 27px;
+	color: #222222;
+	background: #95a7ad;
+	margin-top: 50px;
+	border-radius: 3px;
+} 
+
+.header-bottom{
+	border-top: 1px solid #95a7ad;
+	margin-top: 50px;
+}
+
+.header-bottom a{
+	text-decoration: none;
+	display: inline-block;
+	font-size: 15px;
+	color: #2cade7;
+	margin-top: 20px;
+}
+/*-- header-scetion-area-end  --*/
